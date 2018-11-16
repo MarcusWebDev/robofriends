@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://marcuswebdev.github.io/robofriends",
+  "homepage": "https://marcuswebdev.github.io/robofriends/",
   "private": true,
   "dependencies": {
     "react": "^16.4.1",
